@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bjv:home|Door43 (bjv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bjv|d43-bjv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bjv/archive/master.zip|d43-bjv.zip]]
+
+**Recent Changes**
+{{changes>ns = bjv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bjv|Ethnologue data]]
+
